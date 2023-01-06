@@ -1,0 +1,1 @@
+A program for constructing all possible chords in a given musical scale.
